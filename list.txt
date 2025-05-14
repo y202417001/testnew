@@ -1,0 +1,8 @@
+total 61
+drwxr-xr-x 1 USER 197121     0 May 15 00:30 ./
+drwxr-xr-x 1 USER 197121     0 May 15 00:29 ../
+drwxr-xr-x 1 USER 197121     0 May 15 00:29 .git/
+-rw-r--r-- 1 USER 197121  7360 May 15 00:29 .gitignore
+-rw-r--r-- 1 USER 197121 35823 May 15 00:29 LICENSE
+-rw-r--r-- 1 USER 197121    56 May 15 00:29 README.md
+-rw-r--r-- 1 USER 197121     0 May 15 00:31 list.txt
